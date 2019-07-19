@@ -1,0 +1,2 @@
+ProductController.getProductById=This REST web service method will fetch the product by id.
+ProductController.listAll=This REST web service method will fetch all products.
